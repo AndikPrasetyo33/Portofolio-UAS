@@ -1,4 +1,4 @@
-Website ini merupakan tugas UAS yang berisi informasi tentang data diri, portofolio kegiatan, opini, lokasi, dan formulir.
+Website ini merupakan tugas UAS yang berisi informasi tentang data diri, portofolio kegiatan, opini, lokasi, dan form.
 Dibuat menggunakan HTML, CSS, PHP, dan MySQL (XAMPP).
 
 #Fitur
