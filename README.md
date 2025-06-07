@@ -3,13 +3,17 @@ Dibuat menggunakan HTML, CSS, PHP, dan MySQL (XAMPP).
 
 #Fitur
 1. Profil dan Biodata
+   
 (Berisi informasi pribadi).
 
-2. Portofolio CRUD
+3. Portofolio CRUD
+   
 (Tambah, Edit, Hapus).
 
-3. Opini 
+5. Opini
+   
 (Halaman opini).
 
-4. Form Kontak & Lokasi
+7. Form Kontak & Lokasi
+   
 (Formulir pengunjung + embed Google Maps).
