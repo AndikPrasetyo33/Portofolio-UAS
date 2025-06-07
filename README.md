@@ -3,7 +3,7 @@ Dibuat menggunakan HTML, CSS, PHP, dan MySQL (XAMPP).
 
 #Fitur
 1. Profil dan Biodata
-(Berisi informasi pribadi dan studi).
+(Berisi informasi pribadi).
 
 2. Portofolio CRUD
 (Tambah, Edit, Hapus).
